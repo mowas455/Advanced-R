@@ -5,6 +5,7 @@ liuid <- "mowas455"
 
 # library(markmyassignment)
 #lab_path <-
+#   "https://raw.githubusercontent.com/STIMALiU/AdvRCourse/master/Labs/Tests/lab1.yml"
 # set_assignment(lab_path)
 
 ##1.1
